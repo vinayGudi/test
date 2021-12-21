@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM ubuntu:18.04.6
+FROM public.ecr.aws/lts/ubuntu:latest
 
 # Install Nginx.
 RUN \
