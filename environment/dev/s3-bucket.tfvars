@@ -1,0 +1,5 @@
+bucket     = "insearch-1234568"
+key        = "terraform-state/"
+region     = "ap-south-1"
+#access_key = "AKIA3GKLMDVKOV5VVMJQ"
+#secret_key = "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"
